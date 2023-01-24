@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Management"
+date:   2023-01-24 12:51:35 +0100
 categories: management
 ---
 

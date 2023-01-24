@@ -4,9 +4,9 @@ title:  "Motivating People"
 categories: management
 ---
 
-## Motivating people can be a complex task, as everyone is motivated by different things.
 ![Motivating people](/assets/motivating_people.png)
 
+#### Motivating people can be a complex task, as everyone is motivated by different things.
 __However, there are some general strategies that can be effective in motivating people:__
 
 * Clearly communicate expectations: People are more motivated when they understand what is expected of them and how their work fits into the overall goals of the organization.

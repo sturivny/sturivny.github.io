@@ -4,8 +4,9 @@ title:  "Tasks estimation"
 categories: management
 ---
 
-## Tasks estimation is the process of determining how long a specific task or project will take to complete. It is an important aspect of project management because it allows managers and team members to plan and organize their work effectively. 
 ![Tasks estimation](/assets/tasks_estimation.png)
+
+#### Tasks estimation is the process of determining how long a specific task or project will take to complete. It is an important aspect of project management because it allows managers and team members to plan and organize their work effectively. 
 
 __Here are a few reasons why task estimation is important:__
 

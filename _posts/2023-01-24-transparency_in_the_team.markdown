@@ -4,8 +4,9 @@ title:  "Transparency in the team"
 categories: management
 ---
 
-## Transparency is an important aspect of creating a healthy and productive IT team.
 ![Transparency in the team](/assets/transparency_team.png)
+
+#### Transparency is an important aspect of creating a healthy and productive IT team.
 
 __Here are some ways to increase transparency within your IT team:__
 

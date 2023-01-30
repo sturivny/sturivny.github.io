@@ -70,7 +70,7 @@ After a retrospective, the following action items should be executed:
 It is important to execute action items in a timely manner to show that the retrospective was a valuable exercise, and to continuously improve the team's processes, communication, and overall effectiveness.
 <br><br/>
 
-#### Is there disadvantages?
+#### Аре there disadvantages?
 
 There are some potential disadvantages of having retrospectives, including:
 

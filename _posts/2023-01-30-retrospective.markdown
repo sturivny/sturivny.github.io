@@ -29,19 +29,21 @@ The frequency of retrospectives can vary depending on the team, project, and org
 
 * After every sprint in Agile software development.
 * At the end of each project or major deliverable.
-* Quarterly or semi-annually for long-term projects.
+* ASAP especially for long-term projects.
 
 Ultimately, the frequency should be frequent enough to allow for continuous improvement, but not so frequent that they become a burden on the team's time and resources. The team should regularly evaluate the frequency of retrospectives to ensure they are providing value and adjust as needed.
 <br><br/>
 
 #### Do we need a retrospective even if everything went well?
 
-It's still valuable to have a retrospective even if everything went well. This provides an opportunity to reflect on the team's successes and identify areas for improvement, no matter how small. Additionally, retrospectives can foster open communication and help build team cohesion, even if there were no major issues to address.
+It's still valuable to have a retrospective even if everything went well. Positive things are keeping the team motivated. Focusing on the positive aspects can confirm its worth and sustain continued effort. This provides an opportunity to reflect on the team's successes and identify areas for improvement, no matter how small. Additionally, retrospectives can foster open communication and help build team cohesion, even if there were no major issues to address.
+
+It is important to review action items from previous retrospectives, collect data and items relevant to the current retrospective, and check for decisions made in past retrospectives as these will help provide a comprehensive picture of the team's progress and help inform future decision-making. This helps ensure accountability, continuous improvement, and effective use of retrospective meetings.
 <br><br/>
 
 #### Who can lead retrospectives?
 
-Retrospectives can be led by various team members or stakeholders. It's important to choose a leader who can facilitate a productive and positive discussion, encourage open and honest communication, and drive actionable outcomes. The leader should also be neutral and unbiased, and not have any personal stake in the outcome of the retrospective.
+Retrospectives can be led by various team members or stakeholders. It's important to choose a leader who can facilitate a productive and positive discussion, encourage open and honest communication, and drive actionable outcomes. The leader should also be neutral and unbiased, and not have any personal stake in the outcome of the retrospective. A third-party facilitator, such as a scrum master, is ideal for a retrospective as it allows for effective discussions between the leader and team members. The team manager should not be present to ensure that the rest of the team feels secure. If the team lacks someone else to run the retro, any member of the team can be valuable in doing so.
 
 To involve people in a retrospective effectively, you can use the following techniques:
 
@@ -77,7 +79,6 @@ There are some potential disadvantages of having retrospectives, including:
 * Time consumption: Retrospectives can take up a significant amount of time, especially if they are frequent or involve a large team.
 * Resistance to change: Some team members may resist making changes or be resistant to new ideas that are brought up in retrospectives.
 * Emotional responses: Retrospectives can sometimes lead to negative emotions or conflicts if team members feel criticized or their opinions are not heard.
-* Lack of follow-through: If action items are not properly prioritized, assigned, and followed up on, retrospectives can lose their effectiveness.
 * Lack of objectivity: If the leader of the retrospective has a personal stake in the outcome, the discussion may not be neutral and objective.
 
 To minimize these disadvantages, it's important to have well-facilitated and productive retrospectives, prioritize action items effectively, and regularly follow up on progress.

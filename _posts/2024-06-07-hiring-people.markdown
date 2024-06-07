@@ -4,7 +4,7 @@ title:  "Hiring people"
 categories: management
 ---
 
-![Retrospectives](/assets/hiring-people.png)
+![Hiring Peole](/assets/hiring-people.png)
 
 #### Hiring the right person for your team is like finding the perfect piece to complete a puzzle. Every step in the process is crucial. Here’s a story that guides you through the interview process, making it an exciting journey rather than a daunting task.
 <br><br/>

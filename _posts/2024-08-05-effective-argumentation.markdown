@@ -84,12 +84,12 @@ The final ["Not Guilty" scene in "12 Angry Men"](https://youtu.be/0jxVnlRdelU?li
 
 __Key Elements:__
 
-- __Let them speak first:__ Juror 8 and the other jurors allow the last holdout, Juror 3, to express his final concerns.
-- __Listen actively:__ The jurors, especially Juror 8, listen attentively to Juror 3’s arguments and emotional outbursts.
-- __Do not interrupt:__ Juror 3 is given the floor to speak without interruption.
+- __Let them speak first:__ Tom and the other jurors allow the last holdout, Jack, to express his final concerns and reasons for believing the defendant is guilty.
+- __Listen actively:__ The jurors, especially Tom, listen attentively to Jack’s arguments and emotional outbursts.
+- __Do not interrupt:__ Jack is given the floor to speak without interruption, allowing him to fully voice his thoughts.
 - __Stick to the main topic:__ Despite emotional tension, the focus remains on the evidence and the question of reasonable doubt.
-- __Ask about their personal opinion:__ Juror 8 and others gently probe Juror 3 to reconsider his stance based on the evidence.
+- __Ask about their personal opinion:__ Tom and others gently probe Jack, asking him to reconsider his stance based on the evidence and his personal reasoning.
 
-In the end, Juror 3, emotionally exhausted and realizing his judgment was clouded by personal biases, reluctantly agrees with the "Not Guilty" verdict. This scene beautifully illustrates how patience, respectful listening, and logical argumentation can lead to a change of heart and consensus.
+In the end, Jack, emotionally exhausted and realizing that his judgment was clouded by personal biases, reluctantly agrees with the "Not Guilty" verdict. This scene beautifully illustrates how patience, respectful listening, and logical argumentation can lead to a change of heart and consensus.
 
 Effective argumentation is a skill that, when mastered, can lead to understanding, agreement, and action. By following these principles, software engineers and managers can improve their ability to persuade and influence others.

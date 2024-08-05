@@ -35,9 +35,9 @@ For example, trying to discuss a new project proposal with your manager during a
 #### The Argumentation Formula
 __Base Argument + Problematic Argument = Final Argument__
 
-- Base Argument: The argument your companion agrees with.
-- Problematic Argument: The argument your companion disagrees with.
-- Final Argument: The question you pose.
+- __Base Argument:__ The argument your companion agrees with.
+- __Problematic Argument:__ The argument your companion disagrees with.
+- __Final Argument:__ The question you pose.
 
 __Example:__
 Your opponent is a smoker and believes smoking is not harmful.
@@ -45,11 +45,6 @@ Your opponent is a smoker and believes smoking is not harmful.
 - __Base Argument:__ Health is important.
 - __Problematic Argument:__ Smoking is dangerous for your health.
 - __Final Argument:__ Maybe it’s better not to smoke?
-
-#### Building Your Argumentation Strategy
-Identify your opponent’s base arguments and build your strategy from their perspective. Convincing yourself first is often the most challenging part.
-
-For example, if you’re trying to persuade a team member to adopt a new coding practice, start by understanding their current concerns or preferences. If they prioritize code readability, you can build your argument around how the new practice enhances readability and maintains consistency, thus addressing their primary concern and making your argument more compelling.
 
 #### Context-Specific Arguments
 Tailor your arguments to specific situations. Returning to our example of the smoker:

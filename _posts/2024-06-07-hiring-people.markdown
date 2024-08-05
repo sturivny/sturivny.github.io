@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title:  "Hiring people"
 categories: management

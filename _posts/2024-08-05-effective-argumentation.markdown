@@ -80,11 +80,11 @@ Summarize and question:
 #### Case Study: "12 Angry Men"
 The final "Not Guilty" scene in "12 Angry Men" is a powerful example of effective argumentation. This part occurs near the end of the film, around the 90-minute mark.
 
-[![12 Angry Men - Not Guilty (1957)]](https://youtu.be/0jxVnlRdelU?list=RDQMkVx3Hpvz0rw)
+[![12 Angry Men - Not Guilty (1957)](https://img.youtube.com/vi/0jxVnlRdelU/0.jpg)](https://youtu.be/0jxVnlRdelU?list=RDQMkVx3Hpvz0rw)
 
 __Key Elements:__
 
-- __Let them speak first:_ Juror 8 and the other jurors allow the last holdout, Juror 3, to express his final concerns.
+- __Let them speak first:__ Juror 8 and the other jurors allow the last holdout, Juror 3, to express his final concerns.
 - __Listen actively:__ The jurors, especially Juror 8, listen attentively to Juror 3’s arguments and emotional outbursts.
 - __Do not interrupt:__ Juror 3 is given the floor to speak without interruption.
 - __Stick to the main topic:__ Despite emotional tension, the focus remains on the evidence and the question of reasonable doubt.

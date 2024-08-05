@@ -78,7 +78,7 @@ Summarize and question:
 "So, are you suggesting that smoking is actually good for health?"
 
 #### Case Study: "12 Angry Men"
-The final "Not Guilty" scene in "12 Angry Men" is a powerful example of effective argumentation. This part occurs near the end of the film, around the 90-minute mark.
+The final ["Not Guilty" scene in "12 Angry Men"](https://youtu.be/0jxVnlRdelU?list=RDQMkVx3Hpvz0rw) is a powerful example of effective argumentation. This part occurs near the end of the film, around the 90-minute mark.
 
 [![12 Angry Men - Not Guilty (1957)](https://img.youtube.com/vi/0jxVnlRdelU/0.jpg)](https://youtu.be/0jxVnlRdelU?list=RDQMkVx3Hpvz0rw)
 

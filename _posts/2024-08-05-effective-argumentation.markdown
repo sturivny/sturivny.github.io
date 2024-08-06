@@ -31,6 +31,12 @@ The situation must be suitable for argumentation. Persuading someone who is unwi
 
 For example, trying to discuss a new project proposal with your manager during a hectic meeting might not be effective. Instead, waiting for a calmer moment, such as during a one-on-one meeting or when they have more time to listen, can significantly increase your chances of a successful argument.
 
+#### Finding the Truth: Convincing Yourself First
+One of the most challenging tasks is convincing yourself of the opposite point of view. Great chess players like Bobby Fischer often played against themselves to enhance their skills. They didn’t do this due to a lack of opponents, but to push themselves to think differently and at a higher level.
+
+In the movie “Fight Club” (1999), Tyler Durden, through his alter ego, rejects his former lifestyle, embracing chaos and anti-materialism. However, he ultimately realizes the dangers of this extreme transformation. This illustrates how challenging and transformative it can be to reconsider and change one’s own perspective.
+
+When preparing for a debate or argument, try to first convince yourself of the opposite viewpoint. This practice will definitely help you uncover deeper truths and strengthen your argumentation skills.
 
 #### The Argumentation Formula
 __Base Argument + Problematic Argument = Final Argument__

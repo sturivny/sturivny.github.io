@@ -40,29 +40,29 @@ Alright, let's make a cup of cozy, creamy coffee with milk, but let's think back
 
 ![Backward planning](/assets/backward-planning-process.png)
 
-##### Final Product - Coffee with Milk
-Picture this: a warm, inviting cup of coffee with a splash of milk, just waiting for you to take the first sip. It's the comfort in a cup we're aiming for.
+__Final Product - Coffee with Milk__
+> Picture this: a warm, inviting cup of coffee with a splash of milk, just waiting for you to take the first sip. It's the comfort in a cup we're aiming for.
 
-##### Crucial Element - Hot Milk
-But before we get that soothing blend, we need some milk that's been heated up until it's just steaming. That's Emma's job. She warms up the milk until it's hot and ready to mingle with the coffee.
+__Crucial Element - Hot Milk__
+> But before we get that soothing blend, we need some milk that's been heated up until it's just steaming. That's Emma's job. She warms up the milk until it's hot and ready to mingle with the coffee.
 
-##### Starting Ingredient - Milk
-Of course, Emma can't heat the milk if it's not there. So, we begin with plain, cool milk, straight from the fridge.
+__Starting Ingredient - Milk__
+> Of course, Emma can't heat the milk if it's not there. So, we begin with plain, cool milk, straight from the fridge.
 
-##### Prior Phase - Cup with Coffee
-Now, rewind a bit more, and there's John with a mug of just-brewed, rich, and robust coffee. It's dark and deep, full of promise.
+__Prior Phase - Cup with Coffee__
+> Now, rewind a bit more, and there's John with a mug of just-brewed, rich, and robust coffee. It's dark and deep, full of promise.
 
-##### Preparatory Stage - Ground Coffee
-But wait, how did John get that coffee ready? Ah, he took fragrant, whole coffee beans and ground them up until they were fine and powdery, perfect for brewing.
+#### Preparatory Stage - Ground Coffee
+> But wait, how did John get that coffee ready? Ah, he took fragrant, whole coffee beans and ground them up until they were fine and powdery, perfect for brewing.
 
-##### Origin - Coffee Beans
-These little guys are the heroes of our story. They started it all. Whole and unassuming, they're packed with potential.
+__Origin - Coffee Beans__
+> These little guys are the heroes of our story. They started it all. Whole and unassuming, they're packed with potential.
 
-##### Initial Step - A Cup
-But even before the coffee brewing action happens, Emma's on the scene. She picks out a clean, dry cup, setting the stage for the magic to happen.
+__Initial Step - A Cup__
+> But even before the coffee brewing action happens, Emma's on the scene. She picks out a clean, dry cup, setting the stage for the magic to happen.
 
-##### Once Upon a Time - Start
-And here's where our tale begins. With Emma grabbing that cup and John scooping up the coffee beans, they're ready to kick off the journey to that perfect cup of coffee with milk.
+__Once Upon a Time - Start__
+> And here's where our tale begins. With Emma grabbing that cup and John scooping up the coffee beans, they're ready to kick off the journey to that perfect cup of coffee with milk.
 
 These steps are smooth and straightforward, like a well-rehearsed dance. But could we make it even simpler? Sure! If John has a coffee machine that grinds and brews at the press of a button, he could take care of the coffee in one swoop. And if Emma uses a microwave for the milk, it's a matter of seconds.
 

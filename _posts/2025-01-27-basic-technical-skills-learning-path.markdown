@@ -4,6 +4,8 @@ title:  "Basic Technical Skills Learning Path"
 categories: management
 ---
 
+![Basic Technical Skills Learning Path](/assets/basic-technical-skills.jpg)
+
 ### Basic Technical Skills Learning Path
 <br><br/>
 

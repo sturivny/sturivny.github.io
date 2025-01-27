@@ -48,4 +48,3 @@ categories: management
 
 ##### AWS
 - Understand how to use EC2 web console. 
-

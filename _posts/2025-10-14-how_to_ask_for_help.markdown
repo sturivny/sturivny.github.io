@@ -7,33 +7,27 @@ description: A practical guide on how to ask for help clearly and respectfully s
 
 ### How to ask for help so people actually help
 
-<br><br/>
-
 **Posting in a group chat or DM'ing someone with a question? Make sure you've checked all of this first:**
 
 - I've made it as easy and pleasant as possible to help me.  
-- I get straight to the point — no "can I ask a question?" openers.  
-- One message only — not two, not five, not ten.  
+- I get straight to the point,  no "can I ask a question?" openers.  
+- One message only, not two, not five, not ten.  
 - My message is clear and readable, with proper sentences and paragraphs.  
-- It's concise — no unnecessary details.  
+- It's short, no unnecessary details.
 - It includes all the necessary details.  
 - I narrowed the problem and ask a very specific question.  
 - I'm asking the right person or the right channel.  
-- Any code is properly formatted.  
+- A code is properly formatted.  
 - I list what I've already tried.  
 - I'm polite and appreciative.
 
----
+#### Some notes on each point
 
-### Notes on each point
-
-#### Make it easy (this is the main idea)
-
+**Make it easy (this is the main idea)**
 Everything below is just a specific way to do this well.
 
-#### Get to the point (skip the fluff)
-
-Don't start with:
+**Get to the point**
+**Don't start with:**
 
 - "Can I ask a question?"
 - "Anyone here who knows about N?"
@@ -43,42 +37,37 @@ Don't start with:
 
 Just ask the actual question. Save everyone's time (including yours).
 
-#### One message, not a drip-feed
-
+**Just one message**
 No one wants to wait for the seventh message to find out what you actually need.  
 Think first, write clearly, read it once, edit, read again — then send.
 
-#### Make it readable
+**Make it readable**
+A wall of text won't get read unless it's from your boss =) Use short paragraphs and short sentences.
 
-A wall of text won't get read — unless it's from your boss. Use short paragraphs and full sentences.
+**Be brief**
+"On my black Lenovo laptop plugged into a 220V socket with a slightly wrinkled grey USB-C cable going into a 5-outlet power strip, I get this Python error…" — please don't.  
 
-#### Be concise
-
-"On my gray Huawei laptop plugged into a 220V socket with a slightly wrinkled white USB-C cable going into a 5-outlet power strip, I get this Python error…" — please don't.  
 Share only what helps solve the problem.
 
-#### Include the essentials
-
+**Include the essentials**
 Language, framework, OS, the exact error, and the smallest code snippet that reproduces the issue.  
 Don't make people chase you for basic info.
 
-#### Localize the problem and ask a specific question
-
-"My app doesn't work" isn't helpful. Do some digging first: find where and why it breaks.  
+**Localize the problem and ask a specific question**
+"My app doesn't work" isn't helpful.
+Do some digging first: find where and why it breaks.  
 Bonus: once you isolate it and frame a precise question, you might solve it yourself.
 
-#### Ask the right person/place
+**Ask the right person/place**
+Don't post a full error log question in a group chat.
+Choose a relevant channel or a knowledgeable person.
 
-Don't post a FrontPage 2003 CSS question in your building's group chat. Choose a relevant channel or a knowledgeable person.
+**Format your code**
+Nobody wants to decrypt a messy blob. Use code blocks and proper formatting.
 
-#### Format your code
+**Say what you've already tried**
+People will suggest the basics first.
+Provide list what you checked. It shows you've put in effort and avoids repeat advice.
 
-Nobody wants to decipher a messy blob. Use code blocks and proper formatting.
-
-#### Say what you've already tried
-
-People will suggest the basics first. List what you checked — it shows you've put in effort and avoids repeat advice.
-
-#### Be polite and thankful
-
+**Be polite and thankful**
 No one owes you help. Kindness gets better, faster answers.

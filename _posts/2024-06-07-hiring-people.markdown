@@ -33,6 +33,9 @@ The main question you ask is about self-improvement. “What do you feel you lac
 #### Defining the Expert
 People often think that an expert knows everything and can do anything. But let’s look at it differently. An expert is someone who knows exactly what they won’t do and can explain why. An expert should have clear boundaries and a strong sense of direction. This means they have tried various tools and approaches, have experience in many areas, and know exactly what they won’t do, even for money. Ask the candidate about the things and tools they would never use or do.
 
+#### Imagining the First Steps
+Before you end the interview, invite the candidate to step into the future with you. Ask: “Imagine you joined us next month. What would you do in your first weeks here?” Let them describe how they would start. Good answers usually include a simple plan: ask questions, understand priorities, then suggest improvements. A strong candidate also explains what they would need from you and the team at the start.
+
 #### Uncovering Risks
 During the interview, you take diligent notes. You jot down risks and any unexpected or uncommon responses. These notes will be invaluable later.
 After the interview, it’s important to let the dust settle. Leave it for 24 hours. Don’t let emotions cloud your judgment. This time allows you to reflect on the conversation and the candidate’s fit for the role.

@@ -1,0 +1,6 @@
+{%- assign words = include.content | number_of_words -%}
+{%- assign reading_minutes = words | plus: 199 | divided_by: 200 -%}
+{%- if reading_minutes < 1 -%}
+  {%- assign reading_minutes = 1 -%}
+{%- endif -%}
+<span class="reading-time" aria-label="Estimated reading time">{{ reading_minutes }} min read</span>

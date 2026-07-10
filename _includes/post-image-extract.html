@@ -1,0 +1,16 @@
+{%- assign post_image = nil -%}
+{%- assign post_image_alt = nil -%}
+
+{%- if include.content contains 'src="/assets/' -%}
+  {%- assign img_src_part = include.content | split: 'src="/assets/' | last -%}
+  {%- assign post_image = img_src_part | split: '"' | first | prepend: '/assets/' -%}
+  {%- if include.content contains 'alt="' -%}
+    {%- assign alt_part = include.content | split: 'alt="' | last -%}
+    {%- assign post_image_alt = alt_part | split: '"' | first -%}
+  {%- endif -%}
+{%- elsif include.content contains '](/assets/' -%}
+  {%- assign img_alt_part = include.content | split: '![' | last -%}
+  {%- assign post_image_alt = img_alt_part | split: ']' | first -%}
+  {%- assign img_path_part = include.content | split: '](/assets/' | last -%}
+  {%- assign post_image = img_path_part | split: ')' | first | prepend: '/assets/' -%}
+{%- endif -%}

@@ -1,0 +1,2963 @@
+3954
+04:38:13,119 --> 04:38:16,240
+Uh my name is Sergey. I'm a manager in
+
+3955
+04:38:16,240 --> 04:38:18,639
+the CI team like continuous kernel
+
+3956
+04:38:18,639 --> 04:38:22,320
+integration. Uh we build CI for kernel.
+
+3957
+04:38:22,320 --> 04:38:25,279
+And today I'm going to tell you about
+
+3958
+04:38:25,279 --> 04:38:28,000
+how to do uh how we do one-on-one
+
+3959
+04:38:28,000 --> 04:38:31,680
+meetings or at least how I try to do it.
+
+3960
+04:38:31,680 --> 04:38:35,000
+I see
+
+3961
+04:38:35,039 --> 04:38:39,359
+many people here. So, uh basically uh
+
+3962
+04:38:39,359 --> 04:38:42,320
+like
+
+3963
+04:38:42,320 --> 04:38:44,080
+I believe you know how to do one-on-one
+
+3964
+04:38:44,080 --> 04:38:47,359
+meetings and you had once right in
+
+3965
+04:38:47,359 --> 04:38:51,199
+general but uh maybe my experience that
+
+3966
+04:38:51,199 --> 04:38:52,959
+I will share like will be helpful for
+
+3967
+04:38:52,959 --> 04:38:58,240
+you. So uh let's go for it. Uh the first
+
+3968
+04:38:58,240 --> 04:39:00,080
+question that appears here like
+
+3969
+04:39:00,080 --> 04:39:02,240
+basically do we need one-on- ones in
+
+3970
+04:39:02,240 --> 04:39:05,039
+general like at companies like I know
+
+3971
+04:39:05,039 --> 04:39:06,799
+some companies uh don't have like
+
+3972
+04:39:06,799 --> 04:39:09,760
+one-on-one meetings like who thinks that
+
+3973
+04:39:09,760 --> 04:39:11,359
+one-on- ones we should have like one
+
+3974
+04:39:11,359 --> 04:39:13,359
+ones
+
+3975
+04:39:13,359 --> 04:39:16,080
+there are quite quite number of people
+
+3976
+04:39:16,080 --> 04:39:19,199
+it's nice and uh the correct answer of
+
+3977
+04:39:19,199 --> 04:39:22,561
+course yes like we need it uh why it's
+
+3978
+04:39:22,561 --> 04:39:26,959
+so like uh there was a um
+
+3979
+04:39:26,959 --> 04:39:29,439
+some statistic information about like
+
+3980
+04:39:29,439 --> 04:39:32,879
+companies who like uh which like uh have
+
+3981
+04:39:32,879 --> 04:39:36,000
+one-on-one meetings and companies uh uh
+
+3982
+04:39:36,000 --> 04:39:38,560
+which like don't have like one-on-one
+
+3983
+04:39:38,560 --> 04:39:41,360
+meetings. So in in case of like if
+
+3984
+04:39:41,360 --> 04:39:44,240
+company has like one-on-one meetings uh
+
+3985
+04:39:44,240 --> 04:39:47,920
+there like uh basically like happiness
+
+3986
+04:39:47,920 --> 04:39:51,200
+of like employers like higher the like
+
+3987
+04:39:51,200 --> 04:39:53,600
+progress and development also like
+
+3988
+04:39:53,600 --> 04:39:55,920
+higher. So having one-on-one meetings
+
+3989
+04:39:55,920 --> 04:39:58,240
+like I just tell you like regular
+
+3990
+04:39:58,240 --> 04:40:00,958
+one-on-one meetings with like managers
+
+3991
+04:40:00,958 --> 04:40:03,920
+with associates is like uh important
+
+3992
+04:40:03,920 --> 04:40:07,280
+because you you have like uh like higher
+
+3993
+04:40:07,280 --> 04:40:09,520
+results in the end I mean in the long
+
+3994
+04:40:09,520 --> 04:40:12,718
+term uh way.
+
+3995
+04:40:12,718 --> 04:40:16,240
+So uh why I decided to talk about like
+
+3996
+04:40:16,240 --> 04:40:19,680
+one-on-one meetings like because once I
+
+3997
+04:40:19,680 --> 04:40:22,080
+uh become a manager I did it in the
+
+3998
+04:40:22,080 --> 04:40:24,160
+wrong way. I I basically I didn't know
+
+3999
+04:40:24,160 --> 04:40:26,560
+how to do like one-on-one meetings like
+
+4000
+04:40:26,560 --> 04:40:28,798
+we talk about like anything and nothing
+
+4001
+04:40:28,798 --> 04:40:31,680
+and we tried to like uh shared some
+
+4002
+04:40:31,680 --> 04:40:34,400
+ideas ways and so on but it wasn't
+
+4003
+04:40:34,400 --> 04:40:38,320
+exactly like uh uh the like the right
+
+4004
+04:40:38,320 --> 04:40:42,160
+way how how to do it. So uh most people
+
+4005
+04:40:42,160 --> 04:40:44,798
+like not not most but many many managers
+
+4006
+04:40:44,798 --> 04:40:47,440
+like uh do one one meetings and just
+
+4007
+04:40:47,440 --> 04:40:51,040
+want to hear like uh status update. It's
+
+4008
+04:40:51,040 --> 04:40:53,280
+not about it like at all like one-on-one
+
+4009
+04:40:53,280 --> 04:40:56,240
+meetings shouldn't be like it's like not
+
+4010
+04:40:56,240 --> 04:41:00,000
+equal to status update. So it's one like
+
+4011
+04:41:00,000 --> 04:41:03,040
+uh big mistake. Second it's that you you
+
+4012
+04:41:03,040 --> 04:41:04,798
+don't have like real connection with
+
+4013
+04:41:04,798 --> 04:41:07,360
+your like uh guys your team. So
+
+4014
+04:41:07,360 --> 04:41:09,680
+basically it just like I am a manager I
+
+4015
+04:41:09,680 --> 04:41:12,798
+am in a higher position and you're like
+
+4016
+04:41:12,798 --> 04:41:15,680
+uh engineer so just report to me and so
+
+4017
+04:41:15,680 --> 04:41:17,920
+on. it it's not the right like so
+
+4018
+04:41:17,920 --> 04:41:19,680
+one-on-one meeting should be on like
+
+4019
+04:41:19,680 --> 04:41:22,160
+equal level like uh each one-on-one
+
+4020
+04:41:22,160 --> 04:41:25,040
+meeting and in general there is a second
+
+4021
+04:41:25,040 --> 04:41:28,320
+problem so uh third one it's about
+
+4022
+04:41:28,320 --> 04:41:31,840
+skipping important topics so some
+
+4023
+04:41:31,840 --> 04:41:33,840
+manager thinks okay this meeting is for
+
+4024
+04:41:33,840 --> 04:41:36,000
+me like I want to get some information
+
+4025
+04:41:36,000 --> 04:41:38,240
+from the person so I ask about status
+
+4026
+04:41:38,240 --> 04:41:42,000
+update uh I'm trying to like solve my
+
+4027
+04:41:42,000 --> 04:41:45,120
+own issues and don't hear like to to
+
+4028
+04:41:45,120 --> 04:41:48,320
+guys don't listen to them and just uh
+
+4029
+04:41:48,320 --> 04:41:51,520
+it's about like skipping main point here
+
+4030
+04:41:51,520 --> 04:41:55,440
+that uh such people they uh they losing
+
+4031
+04:41:55,440 --> 04:41:59,200
+their like ability to like to help
+
+4032
+04:41:59,200 --> 04:42:01,920
+people or to just you know like improve
+
+4033
+04:42:01,920 --> 04:42:05,600
+connections and development of people
+
+4034
+04:42:05,600 --> 04:42:07,360
+and as I mentioned before like
+
+4035
+04:42:07,360 --> 04:42:09,440
+one-on-one meetings meetings it's not
+
+4036
+04:42:09,440 --> 04:42:11,440
+for managers I will tell you like later
+
+4037
+04:42:11,440 --> 04:42:13,920
+about it but uh like mostly one-on-one
+
+4038
+04:42:13,920 --> 04:42:15,920
+meetings is for like people and
+
+4039
+04:42:15,920 --> 04:42:18,080
+associates. It's not like for managers.
+
+4040
+04:42:18,080 --> 04:42:20,718
+Managers needs to like uh you know drive
+
+4041
+04:42:20,718 --> 04:42:24,958
+and and lead meetings but not just being
+
+4042
+04:42:24,958 --> 04:42:27,040
+like on the top of it and like hearing
+
+4043
+04:42:27,040 --> 04:42:30,080
+about like uh what was done, what wasn't
+
+4044
+04:42:30,080 --> 04:42:34,400
+done and why and so on. So what is like
+
+4045
+04:42:34,400 --> 04:42:37,120
+one-on-one meeting? Uh one-on-one
+
+4046
+04:42:37,120 --> 04:42:39,520
+meeting is basically a meeting between
+
+4047
+04:42:39,520 --> 04:42:43,040
+uh manager and team member and uh there
+
+4048
+04:42:43,040 --> 04:42:44,718
+are several topics that could be like
+
+4049
+04:42:44,718 --> 04:42:47,600
+discussed like there like first it's
+
+4050
+04:42:47,600 --> 04:42:50,160
+like motivation of the person like how
+
+4051
+04:42:50,160 --> 04:42:52,240
+this person is motivated to do things
+
+4052
+04:42:52,240 --> 04:42:54,400
+what they like to do what don't like to
+
+4053
+04:42:54,400 --> 04:42:57,360
+do uh like how they feel doing some like
+
+4054
+04:42:57,360 --> 04:42:59,840
+activities and so on for example I see
+
+4055
+04:42:59,840 --> 04:43:03,200
+like people uh from my team like and I
+
+4056
+04:43:03,200 --> 04:43:04,958
+know that they definitely don't like
+
+4057
+04:43:04,958 --> 04:43:08,480
+doing UI part of like some stuff like I
+
+4058
+04:43:08,480 --> 04:43:11,360
+I don't like max doing that. I tried to
+
+4059
+04:43:11,360 --> 04:43:13,600
+find some somebody else who like really
+
+4060
+04:43:13,600 --> 04:43:17,440
+likes to do it like there is one thing
+
+4061
+04:43:17,440 --> 04:43:20,000
+uh also about the progress progress it's
+
+4062
+04:43:20,000 --> 04:43:22,320
+not about status it's about how person
+
+4063
+04:43:22,320 --> 04:43:26,000
+thinks uh like uh his pro progress is so
+
+4064
+04:43:26,000 --> 04:43:27,760
+like for example you can ask question
+
+4065
+04:43:27,760 --> 04:43:29,520
+like how do you feel like were you
+
+4066
+04:43:29,520 --> 04:43:31,200
+productive like last week or not
+
+4067
+04:43:31,200 --> 04:43:34,480
+productive like uh like how do you feel
+
+4068
+04:43:34,480 --> 04:43:36,480
+and for example the reply was yeah I
+
+4069
+04:43:36,480 --> 04:43:38,400
+feel like I was really productive
+
+4070
+04:43:38,400 --> 04:43:42,080
+because I did like uh of like uh like
+
+4071
+04:43:42,080 --> 04:43:45,040
+many things and like I'm also like what
+
+4072
+04:43:45,040 --> 04:43:47,920
+like even more that I planned and I feel
+
+4073
+04:43:47,920 --> 04:43:51,200
+like happy and healthy because I like
+
+4074
+04:43:51,200 --> 04:43:53,120
+you know working without like
+
+4075
+04:43:53,120 --> 04:43:54,958
+interruptions without like additional
+
+4076
+04:43:54,958 --> 04:43:56,878
+meetings and so on.
+
+4077
+04:43:56,878 --> 04:43:59,680
+So the third thing is like talk about
+
+4078
+04:43:59,680 --> 04:44:02,878
+goal goals and personal growth like uh I
+
+4079
+04:44:02,878 --> 04:44:05,520
+know some people that uh then don't like
+
+4080
+04:44:05,520 --> 04:44:08,080
+to be promoted they like uh working in
+
+4081
+04:44:08,080 --> 04:44:09,840
+the way they are doing and don't like
+
+4082
+04:44:09,840 --> 04:44:14,718
+like moving forward. So uh it's not like
+
+4083
+04:44:14,718 --> 04:44:17,920
+many it's like 10% or 5% of such people
+
+4084
+04:44:17,920 --> 04:44:19,680
+like other guys they they like talking
+
+4085
+04:44:19,680 --> 04:44:23,280
+about growth but uh sometimes they are
+
+4086
+04:44:23,280 --> 04:44:25,360
+way too shy you know to discuss such
+
+4087
+04:44:25,360 --> 04:44:28,480
+things. So as a manager like you need to
+
+4088
+04:44:28,480 --> 04:44:30,958
+like uh start talking like first for
+
+4089
+04:44:30,958 --> 04:44:33,520
+example like I see that you are like
+
+4090
+04:44:33,520 --> 04:44:35,600
+have like great potential at I don't
+
+4091
+04:44:35,600 --> 04:44:39,040
+know like uh as an engineer so let's
+
+4092
+04:44:39,040 --> 04:44:40,878
+discuss your like further promotions and
+
+4093
+04:44:40,878 --> 04:44:44,000
+step and so on. Yeah. And uh in that
+
+4094
+04:44:44,000 --> 04:44:47,600
+case you can like set goals. Uh the same
+
+4095
+04:44:47,600 --> 04:44:50,560
+is like career plans and development. So
+
+4096
+04:44:50,560 --> 04:44:53,440
+it's basically uh what I mentioned like
+
+4097
+04:44:53,440 --> 04:44:58,080
+uh right now. So just uh in this uh case
+
+4098
+04:44:58,080 --> 04:45:01,040
+you're just discussing uh setting up the
+
+4099
+04:45:01,040 --> 04:45:03,040
+goals discussing things and try to help
+
+4100
+04:45:03,040 --> 04:45:06,080
+like person to reach those goals
+
+4101
+04:45:06,080 --> 04:45:10,080
+uh about uh like schedule of the
+
+4102
+04:45:10,080 --> 04:45:13,440
+meeting. So uh
+
+4103
+04:45:13,440 --> 04:45:15,680
+once you become a manager in a team or
+
+4104
+04:45:15,680 --> 04:45:17,440
+somebody becomes like a manager new
+
+4105
+04:45:17,440 --> 04:45:20,320
+manager in the team. So you probably uh
+
+4106
+04:45:20,320 --> 04:45:23,360
+set need to like uh like meet with your
+
+4107
+04:45:23,360 --> 04:45:25,840
+team like talk to everybody and uh
+
+4108
+04:45:25,840 --> 04:45:28,240
+establish like plan for your team.
+
+4109
+04:45:28,240 --> 04:45:30,480
+Usually like managers set up like
+
+4110
+04:45:30,480 --> 04:45:32,240
+meetings because they are like really
+
+4111
+04:45:32,240 --> 04:45:34,320
+busy people you know like they don't
+
+4112
+04:45:34,320 --> 04:45:37,360
+have time to do like anything and and so
+
+4113
+04:45:37,360 --> 04:45:40,160
+on and so on. uh in my team I always ask
+
+4114
+04:45:40,160 --> 04:45:43,040
+people like uh if like would you feel
+
+4115
+04:45:43,040 --> 04:45:45,840
+comfortable if I like set meeting like
+
+4116
+04:45:45,840 --> 04:45:48,480
+uh for example on Monday or on Tuesday
+
+4117
+04:45:48,480 --> 04:45:50,798
+at at particular time usually I ask
+
+4118
+04:45:50,798 --> 04:45:53,360
+person to set up like meeting like in
+
+4119
+04:45:53,360 --> 04:45:57,280
+the way like uh he or she wants like uh
+
+4120
+04:45:57,280 --> 04:45:59,120
+here is a thing that it should be like
+
+4121
+04:45:59,120 --> 04:46:01,280
+regular meetings so it shouldn't be like
+
+4122
+04:46:01,280 --> 04:46:03,600
+we have like one meeting and then like
+
+4123
+04:46:03,600 --> 04:46:06,320
+after like one week another one and then
+
+4124
+04:46:06,320 --> 04:46:08,320
+in one month like third meeting it
+
+4125
+04:46:08,320 --> 04:46:11,440
+should be like regular like uh meetings
+
+4126
+04:46:11,440 --> 04:46:13,200
+could be like weekly bi-weekly or
+
+4127
+04:46:13,200 --> 04:46:16,240
+monthly like it's not connected to whole
+
+4128
+04:46:16,240 --> 04:46:19,280
+team like having meetings like exactly
+
+4129
+04:46:19,280 --> 04:46:21,920
+like for example let's say I have a CPI
+
+4130
+04:46:21,920 --> 04:46:23,920
+team so we do like one-on-one meeting
+
+4131
+04:46:23,920 --> 04:46:26,000
+monthly it doesn't work like that so
+
+4132
+04:46:26,000 --> 04:46:28,718
+talk to each person like directly and
+
+4133
+04:46:28,718 --> 04:46:31,680
+like ask like see like how this person
+
+4134
+04:46:31,680 --> 04:46:33,520
+behaves like for example if they need
+
+4135
+04:46:33,520 --> 04:46:36,240
+like more meetings like uh let's say in
+
+4136
+04:46:36,240 --> 04:46:37,840
+uh in our team we have be weekly
+
+4137
+04:46:37,840 --> 04:46:40,160
+meetings. Sometimes guys ask me to have
+
+4138
+04:46:40,160 --> 04:46:42,320
+like additional one-on- ones like when
+
+4139
+04:46:42,320 --> 04:46:44,000
+they need to solve something or share
+
+4140
+04:46:44,000 --> 04:46:48,000
+something and so on. So uh those like uh
+
+4141
+04:46:48,000 --> 04:46:50,560
+bly meetings it's like scheduled and
+
+4142
+04:46:50,560 --> 04:46:53,680
+like basically official like I would say
+
+4143
+04:46:53,680 --> 04:46:57,920
+and uh those meetings like uh like
+
+4144
+04:46:57,920 --> 04:47:01,120
+mostly we have like uh regularly and
+
+4145
+04:47:01,120 --> 04:47:03,440
+some meetings come up like uh like
+
+4146
+04:47:03,440 --> 04:47:05,760
+weekly and more often for example with
+
+4147
+04:47:05,760 --> 04:47:08,798
+some guys like uh I have meetings like
+
+4148
+04:47:08,798 --> 04:47:11,520
+weekly sometimes like be weekly. So it
+
+4149
+04:47:11,520 --> 04:47:13,120
+depends on the person of the team but
+
+4150
+04:47:13,120 --> 04:47:17,280
+not team itself. Uh
+
+4151
+04:47:17,280 --> 04:47:20,000
+also
+
+4152
+04:47:20,000 --> 04:47:21,760
+uh
+
+4153
+04:47:21,760 --> 04:47:24,718
+be sure that uh your guys interested in
+
+4154
+04:47:24,718 --> 04:47:27,760
+those meetings because sometimes like uh
+
+4155
+04:47:27,760 --> 04:47:29,600
+guys not really want to have like
+
+4156
+04:47:29,600 --> 04:47:31,920
+meetings because don't don't have uh
+
+4157
+04:47:31,920 --> 04:47:34,878
+anything to discuss let's say and and
+
+4158
+04:47:34,878 --> 04:47:36,878
+some other reasons. So you should be
+
+4159
+04:47:36,878 --> 04:47:40,080
+like uh you should also think about it
+
+4160
+04:47:40,080 --> 04:47:41,920
+and do meetings in the way that people
+
+4161
+04:47:41,920 --> 04:47:44,240
+like really uh feel comfortable at this
+
+4162
+04:47:44,240 --> 04:47:47,120
+meetings and like uh in ideal case that
+
+4163
+04:47:47,120 --> 04:47:48,798
+people like want to have like meetings
+
+4164
+04:47:48,798 --> 04:47:51,360
+to discuss some things.
+
+4165
+04:47:51,360 --> 04:47:54,878
+Yeah. Uh so about like uh having
+
+4166
+04:47:54,878 --> 04:47:57,040
+meetings like and stages of the
+
+4167
+04:47:57,040 --> 04:48:00,560
+meetings. So usually like uh it has like
+
+4168
+04:48:00,560 --> 04:48:06,160
+three four steps stages there like uh
+
+4169
+04:48:06,160 --> 04:48:09,040
+first stage is just before the meeting.
+
+4170
+04:48:09,040 --> 04:48:11,120
+What you like doing before the meeting?
+
+4171
+04:48:11,120 --> 04:48:14,240
+I know some managers who is like really
+
+4172
+04:48:14,240 --> 04:48:16,080
+experienced and they don't need to
+
+4173
+04:48:16,080 --> 04:48:18,560
+prepare for meetings. I usually like
+
+4174
+04:48:18,560 --> 04:48:20,798
+prepare for meetings because I want to
+
+4175
+04:48:20,798 --> 04:48:24,320
+to know like exactly like what what we
+
+4176
+04:48:24,320 --> 04:48:27,360
+talked about last time what uh what was
+
+4177
+04:48:27,360 --> 04:48:29,920
+done like for example some promises uh
+
+4178
+04:48:29,920 --> 04:48:33,040
+and so on some activities and what we
+
+4179
+04:48:33,040 --> 04:48:35,280
+going to do like next. So it's like
+
+4180
+04:48:35,280 --> 04:48:37,600
+really when you have for example like uh
+
+4181
+04:48:37,600 --> 04:48:39,600
+four people in the team it's easier to
+
+4182
+04:48:39,600 --> 04:48:41,200
+remember everything but if you have like
+
+4183
+04:48:41,200 --> 04:48:43,600
+10 person in the team uh you might lose
+
+4184
+04:48:43,600 --> 04:48:46,080
+like so restart is when you just
+
+4185
+04:48:46,080 --> 04:48:47,840
+remember everything what you discussed
+
+4186
+04:48:47,840 --> 04:48:50,240
+what you promised and just uh to have
+
+4187
+04:48:50,240 --> 04:48:55,200
+like next uh steps. So uh the start uh f
+
+4188
+04:48:55,200 --> 04:48:57,520
+face phase of the
+
+4189
+04:48:57,520 --> 04:48:59,040
+uh it's like set the tone. So for
+
+4190
+04:48:59,040 --> 04:49:01,280
+example at this meeting you want to talk
+
+4191
+04:49:01,280 --> 04:49:04,638
+about like uh promotion or maybe next
+
+4192
+04:49:04,638 --> 04:49:07,120
+time you want to talk about gapes uh
+
+4193
+04:49:07,120 --> 04:49:09,920
+like next up you want to like coach
+
+4194
+04:49:09,920 --> 04:49:13,520
+person because like uh like you was
+
+4195
+04:49:13,520 --> 04:49:16,160
+asked to do that and uh that's why like
+
+4196
+04:49:16,160 --> 04:49:18,878
+you can like discuss those steps and uh
+
+4197
+04:49:18,878 --> 04:49:22,560
+like uh behave in that way. uh central
+
+4198
+04:49:22,560 --> 04:49:25,600
+phrase it's really important because uh
+
+4199
+04:49:25,600 --> 04:49:28,080
+like uh despite of talking about nothing
+
+4200
+04:49:28,080 --> 04:49:30,560
+it's the main part that you can when you
+
+4201
+04:49:30,560 --> 04:49:34,320
+can like uh understand person like put
+
+4202
+04:49:34,320 --> 04:49:36,958
+some goals discuss important things and
+
+4203
+04:49:36,958 --> 04:49:40,400
+so on and uh the last one is end
+
+4204
+04:49:40,400 --> 04:49:43,440
+positively so you like basically I don't
+
+4205
+04:49:43,440 --> 04:49:46,080
+suggest ending meetings in the way that
+
+4206
+04:49:46,080 --> 04:49:48,958
+uh okay so you have you missed deadline
+
+4207
+04:49:48,958 --> 04:49:51,280
+you have some gapes please work on it
+
+4208
+04:49:51,280 --> 04:49:52,958
+like it doesn't work. It shouldn't work
+
+4209
+04:49:52,958 --> 04:49:56,638
+like that. So basically like uh try to
+
+4210
+04:49:56,638 --> 04:49:59,520
+appreciate like help like try to find
+
+4211
+04:49:59,520 --> 04:50:01,360
+something that person like really your
+
+4212
+04:50:01,360 --> 04:50:04,320
+passion working on and what like he or
+
+4213
+04:50:04,320 --> 04:50:07,040
+she really done like during like between
+
+4214
+04:50:07,040 --> 04:50:09,120
+the meetings
+
+4215
+04:50:09,120 --> 04:50:12,000
+some questions you might help you like
+
+4216
+04:50:12,000 --> 04:50:17,120
+uh uh with meetings like it's like
+
+4217
+04:50:17,120 --> 04:50:22,320
+really easy like and uh like but uh I
+
+4218
+04:50:22,320 --> 04:50:24,480
+would like to just like talk about this
+
+4219
+04:50:24,480 --> 04:50:29,120
+a bit. So, uh you might ask like what
+
+4220
+04:50:29,120 --> 04:50:32,560
+issues do you have some obstacles when
+
+4221
+04:50:32,560 --> 04:50:35,520
+when you stuck like what do you like to
+
+4222
+04:50:35,520 --> 04:50:38,638
+talk about? So just uh try to ask like
+
+4223
+04:50:38,638 --> 04:50:42,560
+open questions, try to like uh show that
+
+4224
+04:50:42,560 --> 04:50:45,760
+you really like uh want to solve those
+
+4225
+04:50:45,760 --> 04:50:48,560
+issues, not just talking like about like
+
+4226
+04:50:48,560 --> 04:50:51,040
+you you know like just because we have
+
+4227
+04:50:51,040 --> 04:50:52,798
+those questions we need to ask exactly
+
+4228
+04:50:52,798 --> 04:50:55,600
+those questions at each meeting and
+
+4229
+04:50:55,600 --> 04:50:58,320
+that's like our schedule like our agenda
+
+4230
+04:50:58,320 --> 04:51:01,040
+for the meeting and that's it. So note
+
+4231
+04:51:01,040 --> 04:51:03,440
+in the in it's work it doesn't work in
+
+4232
+04:51:03,440 --> 04:51:05,280
+that way. So the main part should be
+
+4233
+04:51:05,280 --> 04:51:07,680
+like like this. So you you need to get
+
+4234
+04:51:07,680 --> 04:51:12,320
+like uh person like uh get this person
+
+4235
+04:51:12,320 --> 04:51:15,440
+that he or she just uh you know be open
+
+4236
+04:51:15,440 --> 04:51:17,520
+with you that you know the information
+
+4237
+04:51:17,520 --> 04:51:21,360
+and know like how to help this person.
+
+4238
+04:51:21,360 --> 04:51:26,320
+So uh you can ask about like priorities
+
+4239
+04:51:26,320 --> 04:51:28,798
+of this person feels what was what went
+
+4240
+04:51:28,798 --> 04:51:31,760
+well what went not really well because
+
+4241
+04:51:31,760 --> 04:51:34,320
+like for example at any particular
+
+4242
+04:51:34,320 --> 04:51:36,878
+situation that happened like during like
+
+4243
+04:51:36,878 --> 04:51:40,240
+uh during like last week let's say uh
+
+4244
+04:51:40,240 --> 04:51:42,958
+it's really like uh people think
+
+4245
+04:51:42,958 --> 04:51:44,798
+differently and people feel like
+
+4246
+04:51:44,798 --> 04:51:47,360
+different for like uh about like uh
+
+4247
+04:51:47,360 --> 04:51:49,760
+changes for example for example like if
+
+4248
+04:51:49,760 --> 04:51:54,878
+we had some uh new like uh let's say new
+
+4249
+04:51:54,878 --> 04:51:56,878
+guy in the team. So some people might
+
+4250
+04:51:56,878 --> 04:51:58,638
+feel like well about it, some people
+
+4251
+04:51:58,638 --> 04:52:01,440
+might not feel like well and maybe some
+
+4252
+04:52:01,440 --> 04:52:03,520
+people don't like don't know like what
+
+4253
+04:52:03,520 --> 04:52:06,000
+what what to like talk about with this
+
+4254
+04:52:06,000 --> 04:52:08,400
+person, how to like dealing with it, how
+
+4255
+04:52:08,400 --> 04:52:10,480
+to start communicating. So that's why
+
+4256
+04:52:10,480 --> 04:52:14,798
+you need to lead like those meetings and
+
+4257
+04:52:14,798 --> 04:52:18,560
+ask uh like such like as an example such
+
+4258
+04:52:18,560 --> 04:52:21,040
+such questions. Yeah.
+
+4259
+04:52:21,040 --> 04:52:24,638
+Uh also like I recommend in the uh like
+
+4260
+04:52:24,638 --> 04:52:26,638
+end when you like for example talked
+
+4261
+04:52:26,638 --> 04:52:29,760
+about uh your like goals that you set up
+
+4262
+04:52:29,760 --> 04:52:33,440
+or like uh guys set up. So you can talk
+
+4263
+04:52:33,440 --> 04:52:35,440
+about anything else. Maybe something is
+
+4264
+04:52:35,440 --> 04:52:39,360
+like really like important and uh guys
+
+4265
+04:52:39,360 --> 04:52:41,920
+want to discuss with you. So yeah don't
+
+4266
+04:52:41,920 --> 04:52:45,600
+be don't be too shy and just try to ask
+
+4267
+04:52:45,600 --> 04:52:48,878
+like people about this.
+
+4268
+04:52:48,878 --> 04:52:52,000
+So uh as I talked about like status
+
+4269
+04:52:52,000 --> 04:52:54,240
+update issue, it's not about like
+
+4270
+04:52:54,240 --> 04:52:55,920
+one-on-one meetings. It's definitely not
+
+4271
+04:52:55,920 --> 04:52:58,320
+about like status update. It it's not
+
+4272
+04:52:58,320 --> 04:53:01,120
+exactly for managers. So one-on-one
+
+4273
+04:53:01,120 --> 04:53:03,840
+meetings like in ideal case should be
+
+4274
+04:53:03,840 --> 04:53:07,520
+set up by uh associates like uh your
+
+4275
+04:53:07,520 --> 04:53:11,040
+guys and uh like and do like in in the
+
+4276
+04:53:11,040 --> 04:53:13,680
+way like they set it up and don't
+
+4277
+04:53:13,680 --> 04:53:15,760
+discuss like uh status update. for
+
+4278
+04:53:15,760 --> 04:53:18,400
+example to get some status update you
+
+4279
+04:53:18,400 --> 04:53:20,000
+have like way more like different
+
+4280
+04:53:20,000 --> 04:53:21,760
+variants where you can get it you can go
+
+4281
+04:53:21,760 --> 04:53:24,400
+to Jira for example and check for like
+
+4282
+04:53:24,400 --> 04:53:27,200
+uh like tasks like what was closed like
+
+4283
+04:53:27,200 --> 04:53:29,520
+you can go I don't know GitLab GitHub
+
+4284
+04:53:29,520 --> 04:53:32,320
+you can ask other people like and and so
+
+4285
+04:53:32,320 --> 04:53:34,718
+on so don't spend this time like at
+
+4286
+04:53:34,718 --> 04:53:37,040
+meetings if you want like directly talk
+
+4287
+04:53:37,040 --> 04:53:39,120
+to this person like about status update
+
+4288
+04:53:39,120 --> 04:53:40,718
+just call this meeting like status
+
+4289
+04:53:40,718 --> 04:53:42,878
+update and everybody will be afraid of
+
+4290
+04:53:42,878 --> 04:53:45,840
+it like and nobody wants to go into it
+
+4291
+04:53:45,840 --> 04:53:48,638
+Yeah. So it's the same uh instead of
+
+4292
+04:53:48,638 --> 04:53:51,200
+like asking like highlights you can ask
+
+4293
+04:53:51,200 --> 04:53:53,760
+like about like instead of asking about
+
+4294
+04:53:53,760 --> 04:53:55,120
+status update you can ask about
+
+4295
+04:53:55,120 --> 04:53:57,600
+highlights from during last week. It's
+
+4296
+04:53:57,600 --> 04:54:00,080
+like not the same like a status update.
+
+4297
+04:54:00,080 --> 04:54:02,320
+For example status update uh could be
+
+4298
+04:54:02,320 --> 04:54:06,798
+like uh uh speech about like let's say
+
+4299
+04:54:06,798 --> 04:54:09,280
+oh I did this task nothing nothing
+
+4300
+04:54:09,280 --> 04:54:11,760
+blocks me and I'm going to do this task
+
+4301
+04:54:11,760 --> 04:54:13,520
+and so on. But when you ask about
+
+4302
+04:54:13,520 --> 04:54:16,080
+highlights uh like for example guys
+
+4303
+04:54:16,080 --> 04:54:18,560
+usually ask how how they did it like
+
+4304
+04:54:18,560 --> 04:54:20,878
+what like challenges they face up and
+
+4305
+04:54:20,878 --> 04:54:23,840
+you can as a manager just uh see how
+
+4306
+04:54:23,840 --> 04:54:25,840
+like this person like dealing with
+
+4307
+04:54:25,840 --> 04:54:28,560
+issues and maybe like next time you will
+
+4308
+04:54:28,560 --> 04:54:30,798
+like open some potentials maybe work
+
+4309
+04:54:30,798 --> 04:54:33,200
+with people like more or more technical
+
+4310
+04:54:33,200 --> 04:54:36,160
+way. So it depends on like how person
+
+4311
+04:54:36,160 --> 04:54:38,638
+like behaves. So and also you can
+
+4312
+04:54:38,638 --> 04:54:41,360
+discuss like priorities and so on. So
+
+4313
+04:54:41,360 --> 04:54:44,080
+please don't uh discuss tus updates uh
+
+4314
+04:54:44,080 --> 04:54:46,080
+at the meetings.
+
+4315
+04:54:46,080 --> 04:54:49,040
+Sometimes as a manager you can ask about
+
+4316
+04:54:49,040 --> 04:54:50,638
+feedback.
+
+4317
+04:54:50,638 --> 04:54:53,600
+So I mention here sometimes because uh
+
+4318
+04:54:53,600 --> 04:54:56,958
+you you can do it like every meeting but
+
+4319
+04:54:56,958 --> 04:54:59,760
+it would be like not uh like really good
+
+4320
+04:54:59,760 --> 04:55:02,878
+because it's like uh it spends some time
+
+4321
+04:55:02,878 --> 04:55:04,560
+and you don't want to spend some
+
+4322
+04:55:04,560 --> 04:55:07,280
+person's time when you talk about uh
+
+4323
+04:55:07,280 --> 04:55:09,120
+like their activities and their
+
+4324
+04:55:09,120 --> 04:55:11,440
+development about like your feedback.
+
+4325
+04:55:11,440 --> 04:55:15,120
+But as a manager you like uh and if you
+
+4326
+04:55:15,120 --> 04:55:17,840
+want to grow like you can uh ask really
+
+4327
+04:55:17,840 --> 04:55:20,638
+like about feedback sometimes like for
+
+4328
+04:55:20,638 --> 04:55:24,160
+example as a question like uh what I
+
+4329
+04:55:24,160 --> 04:55:26,878
+like how do you feel like I'm a good
+
+4330
+04:55:26,878 --> 04:55:28,878
+manager what should I do like more
+
+4331
+04:55:28,878 --> 04:55:31,200
+should do less or maybe should I stop
+
+4332
+04:55:31,200 --> 04:55:33,200
+doing something or maybe should I
+
+4333
+04:55:33,200 --> 04:55:35,520
+continue like or just start doing
+
+4334
+04:55:35,520 --> 04:55:38,560
+something it it's like completely fine
+
+4335
+04:55:38,560 --> 04:55:40,638
+like
+
+4336
+04:55:40,638 --> 04:55:44,798
+So also you can ask about uh feedback.
+
+4337
+04:55:44,798 --> 04:55:50,958
+Yeah. Uh so at the meetings you like uh
+
+4338
+04:55:50,958 --> 04:55:55,040
+the the main like uh I would say skill
+
+4339
+04:55:55,040 --> 04:55:57,280
+that you need to have is like listen to
+
+4340
+04:55:57,280 --> 04:55:59,840
+person. Don't interrupt. Don't just you
+
+4341
+04:55:59,840 --> 04:56:02,638
+know like break don't like change the
+
+4342
+04:56:02,638 --> 04:56:05,520
+topic of discussion. You just uh need to
+
+4343
+04:56:05,520 --> 04:56:07,600
+listen to understand then just you know
+
+4344
+04:56:07,600 --> 04:56:10,958
+to respond. Don't like think that okay
+
+4345
+04:56:10,958 --> 04:56:13,040
+now this person is talking and I need to
+
+4346
+04:56:13,040 --> 04:56:14,958
+respond something to him. No no no just
+
+4347
+04:56:14,958 --> 04:56:17,840
+understand is like try to understand
+
+4348
+04:56:17,840 --> 04:56:20,638
+sometimes like for example as I'm not
+
+4349
+04:56:20,638 --> 04:56:23,040
+technical person anymore uh I don't
+
+4350
+04:56:23,040 --> 04:56:25,120
+understand like something that they are
+
+4351
+04:56:25,120 --> 04:56:27,600
+talking like to me about like AI or some
+
+4352
+04:56:27,600 --> 04:56:31,040
+like stuff like technical details. So if
+
+4353
+04:56:31,040 --> 04:56:33,680
+I don't want to look stupid, I just tell
+
+4354
+04:56:33,680 --> 04:56:35,760
+tell this guy, okay, I don't want to
+
+4355
+04:56:35,760 --> 04:56:37,360
+look stupid, but please could you
+
+4356
+04:56:37,360 --> 04:56:39,680
+describe a bit more or maybe on a higher
+
+4357
+04:56:39,680 --> 04:56:42,000
+level because I don't understand what do
+
+4358
+04:56:42,000 --> 04:56:45,760
+you mean like and and so on. So uh also
+
+4359
+04:56:45,760 --> 04:56:47,440
+some like questions that might help you
+
+4360
+04:56:47,440 --> 04:56:49,840
+as a manager like to like dealing with
+
+4361
+04:56:49,840 --> 04:56:51,680
+people to understand more. Don't be
+
+4362
+04:56:51,680 --> 04:56:53,600
+afraid like admit that you don't
+
+4363
+04:56:53,600 --> 04:56:55,680
+understand something because uh in some
+
+4364
+04:56:55,680 --> 04:56:58,000
+ways there are some specific like topics
+
+4365
+04:56:58,000 --> 04:57:01,200
+that like they working for uh they've
+
+4366
+04:57:01,200 --> 04:57:04,560
+been working for like maybe I don't know
+
+4367
+04:57:04,560 --> 04:57:07,280
+months and only they know like about it
+
+4368
+04:57:07,280 --> 04:57:10,000
+but you're not aware of it. So try to
+
+4369
+04:57:10,000 --> 04:57:12,560
+get it on a higher level and uh try to
+
+4370
+04:57:12,560 --> 04:57:16,320
+respond like based on this information.
+
+4371
+04:57:16,320 --> 04:57:20,878
+Yeah. at the meetings uh
+
+4372
+04:57:20,878 --> 04:57:23,440
+you need to ask if people like basically
+
+4373
+04:57:23,440 --> 04:57:25,520
+have everything like what they need to
+
+4374
+04:57:25,520 --> 04:57:27,840
+finish like tasks. So sometimes for
+
+4375
+04:57:27,840 --> 04:57:31,680
+example uh like lately in in my team
+
+4376
+04:57:31,680 --> 04:57:36,240
+like guys started working at AI and uh
+
+4377
+04:57:36,240 --> 04:57:38,160
+obviously they don't have resources for
+
+4378
+04:57:38,160 --> 04:57:40,958
+training models like so everybody like
+
+4379
+04:57:40,958 --> 04:57:43,280
+was involved in this pro like who wanted
+
+4380
+04:57:43,280 --> 04:57:45,040
+they were involved in this process and
+
+4381
+04:57:45,040 --> 04:57:47,280
+in the end oh we don't have resources.
+
+4382
+04:57:47,280 --> 04:57:49,520
+So try to figure this out and try to
+
+4383
+04:57:49,520 --> 04:57:51,600
+discuss with guys if they need anything.
+
+4384
+04:57:51,600 --> 04:57:53,360
+Maybe they need some information. Maybe
+
+4385
+04:57:53,360 --> 04:57:56,000
+for example uh some company changes you
+
+4386
+04:57:56,000 --> 04:57:57,680
+know and they don't really understand
+
+4387
+04:57:57,680 --> 04:58:01,440
+it. So try to like explain and ask if
+
+4388
+04:58:01,440 --> 04:58:04,400
+like there are like uh some things that
+
+4389
+04:58:04,400 --> 04:58:08,400
+uh like you want to discuss or like want
+
+4390
+04:58:08,400 --> 04:58:11,280
+to need more information about it. Uh
+
+4391
+04:58:11,280 --> 04:58:13,200
+also try to ask people like open
+
+4392
+04:58:13,200 --> 04:58:16,160
+questions like not just close like are
+
+4393
+04:58:16,160 --> 04:58:19,280
+you feel well like yeah so and and so on
+
+4394
+04:58:19,280 --> 04:58:22,000
+like yeah yeah yeah would you work on
+
+4395
+04:58:22,000 --> 04:58:24,480
+this? Of course like like try to change
+
+4396
+04:58:24,480 --> 04:58:26,798
+some like for open questions like if
+
+4397
+04:58:26,798 --> 04:58:28,798
+like for example would you like working
+
+4398
+04:58:28,798 --> 04:58:30,240
+on it? How do you feel about like
+
+4399
+04:58:30,240 --> 04:58:32,240
+working on it? Like it would be fine for
+
+4400
+04:58:32,240 --> 04:58:36,000
+you like and so on and so on. Uh also
+
+4401
+04:58:36,000 --> 04:58:38,878
+try to like seek for communication gaps.
+
+4402
+04:58:38,878 --> 04:58:42,240
+of if you like sometimes like you might
+
+4403
+04:58:42,240 --> 04:58:44,480
+feel that you stuck or like this person
+
+4404
+04:58:44,480 --> 04:58:47,040
+you know this like awkward silence.
+
+4405
+04:58:47,040 --> 04:58:49,520
+Yeah. So try to just switch to another
+
+4406
+04:58:49,520 --> 04:58:51,600
+like topic and discuss like maybe
+
+4407
+04:58:51,600 --> 04:58:54,000
+something else.
+
+4408
+04:58:54,000 --> 04:58:57,280
+Yeah. Uh meetings it's about balance. Uh
+
+4409
+04:58:57,280 --> 04:58:59,200
+it's about like practical needs and
+
+4410
+04:58:59,200 --> 04:59:03,440
+personal needs. uh like on the left side
+
+4411
+04:59:03,440 --> 04:59:05,440
+you see this like words like plan,
+
+4412
+04:59:05,440 --> 04:59:08,480
+develop, destination, decision, reach,
+
+4413
+04:59:08,480 --> 04:59:10,958
+problems and so on. On the other hand uh
+
+4414
+04:59:10,958 --> 04:59:13,440
+we have like feelings like it's like
+
+4415
+04:59:13,440 --> 04:59:16,320
+personal needs. So you cannot like you
+
+4416
+04:59:16,320 --> 04:59:18,160
+basically you can't tell person to do
+
+4417
+04:59:18,160 --> 04:59:20,638
+something uh when they don't want to do
+
+4418
+04:59:20,638 --> 04:59:22,400
+something they they will do and then
+
+4419
+04:59:22,400 --> 04:59:24,798
+after some period of time they just like
+
+4420
+04:59:24,798 --> 04:59:28,480
+left and because of like uh you don't
+
+4421
+04:59:28,480 --> 04:59:31,680
+use this like uh right column always ask
+
+4422
+04:59:31,680 --> 04:59:33,840
+how how they feel like doing it if they
+
+4423
+04:59:33,840 --> 04:59:37,360
+feel okay if they feel fine like uh like
+
+4424
+04:59:37,360 --> 04:59:40,798
+feel respected valuable and so on. Uh
+
+4425
+04:59:40,798 --> 04:59:44,160
+sometimes people uh like don't feel
+
+4426
+04:59:44,160 --> 04:59:46,000
+valuable because like they don't get
+
+4427
+04:59:46,000 --> 04:59:48,798
+like real feedback like on time because
+
+4428
+04:59:48,798 --> 04:59:51,120
+they they finish like way more things
+
+4429
+04:59:51,120 --> 04:59:54,000
+and don't don't get any feedback like
+
+4430
+04:59:54,000 --> 04:59:56,718
+about it. So you can balance between all
+
+4431
+04:59:56,718 --> 05:00:00,840
+this like two parts.
+
+4432
+05:00:01,440 --> 05:00:04,160
+Okay. Uh about
+
+4433
+05:00:04,160 --> 05:00:07,360
+uh we talked about managers uh behavior
+
+4434
+05:00:07,360 --> 05:00:09,760
+how how manager leadings. Now talk about
+
+4435
+05:00:09,760 --> 05:00:13,120
+like uh what association part like
+
+4436
+05:00:13,120 --> 05:00:16,160
+basically I'm a manager but I have also
+
+4437
+05:00:16,160 --> 05:00:20,638
+like my manager and uh uh as a like
+
+4438
+05:00:20,638 --> 05:00:23,360
+associate for for my manager. So how
+
+4439
+05:00:23,360 --> 05:00:26,480
+should I behave at this meetings? So you
+
+4440
+05:00:26,480 --> 05:00:29,440
+basically as you like as associate is
+
+4441
+05:00:29,440 --> 05:00:34,240
+important like uh for like uh setting up
+
+4442
+05:00:34,240 --> 05:00:37,280
+meetings for like uh discussing things
+
+4443
+05:00:37,280 --> 05:00:39,760
+like it's meeting not for managers so
+
+4444
+05:00:39,760 --> 05:00:42,240
+you probably should be active at this
+
+4445
+05:00:42,240 --> 05:00:45,360
+meeting at this role uh also it would be
+
+4446
+05:00:45,360 --> 05:00:47,200
+great if you know what you need I mean
+
+4447
+05:00:47,200 --> 05:00:49,440
+what do you need to discuss like you
+
+4448
+05:00:49,440 --> 05:00:51,760
+have several topics like before the
+
+4449
+05:00:51,760 --> 05:00:53,280
+meeting you can share with your manager
+
+4450
+05:00:53,280 --> 05:00:54,798
+for example it's like at this meeting I
+
+4451
+05:00:54,798 --> 05:00:56,320
+want to discuss ask like this this and
+
+4452
+05:00:56,320 --> 05:00:58,798
+that and okay no problem at all you can
+
+4453
+05:00:58,798 --> 05:01:01,280
+also tell about it like uh at the
+
+4454
+05:01:01,280 --> 05:01:06,638
+meeting uh also uh you you can ask uh
+
+4455
+05:01:06,638 --> 05:01:08,878
+for help not just just I I don't
+
+4456
+05:01:08,878 --> 05:01:10,480
+understand anything just I need some
+
+4457
+05:01:10,480 --> 05:01:12,718
+help uh ask exactly what you want to
+
+4458
+05:01:12,718 --> 05:01:16,878
+help uh always I I I think like you can
+
+4459
+05:01:16,878 --> 05:01:18,718
+always ask for feedback it's completely
+
+4460
+05:01:18,718 --> 05:01:22,400
+fine how how I'm doing what exactly like
+
+4461
+05:01:22,400 --> 05:01:24,400
+uh what I what needs to be done better
+
+4462
+05:01:24,400 --> 05:01:27,680
+what what I need to do like uh better
+
+4463
+05:01:27,680 --> 05:01:30,638
+and so on. So uh sometimes people like
+
+4464
+05:01:30,638 --> 05:01:33,200
+work hard and they even don't understand
+
+4465
+05:01:33,200 --> 05:01:35,280
+like how valuable they are because
+
+4466
+05:01:35,280 --> 05:01:36,958
+managers don't provide like and they
+
+4467
+05:01:36,958 --> 05:01:38,718
+don't know whether it's like normal
+
+4468
+05:01:38,718 --> 05:01:40,798
+speed or they need to increase the speed
+
+4469
+05:01:40,798 --> 05:01:44,560
+and like yeah so and also like receive
+
+4470
+05:01:44,560 --> 05:01:47,120
+feedback ask your manager like provide
+
+4471
+05:01:47,120 --> 05:01:49,040
+feedback to your manager if you need to
+
+4472
+05:01:49,040 --> 05:01:50,798
+change something or you see like the
+
+4473
+05:01:50,798 --> 05:01:52,638
+situation need be changed or you think
+
+4474
+05:01:52,638 --> 05:01:55,200
+manager like doesn't behave in the like
+
+4475
+05:01:55,200 --> 05:01:57,040
+direction that you thought about. So
+
+4476
+05:01:57,040 --> 05:02:00,320
+also al also like provide feedback
+
+4477
+05:02:00,320 --> 05:02:04,400
+cancelling one-on- ones uh uh all any
+
+4478
+05:02:04,400 --> 05:02:07,200
+guy in my team can cancel oneonone just
+
+4479
+05:02:07,200 --> 05:02:09,920
+without like anything told me just I I
+
+4480
+05:02:09,920 --> 05:02:12,798
+want to cancel like I cannot like you
+
+4481
+05:02:12,798 --> 05:02:15,680
+know attend to this meeting so uh you
+
+4482
+05:02:15,680 --> 05:02:17,920
+should reschedule it like immediately
+
+4483
+05:02:17,920 --> 05:02:19,920
+don't just you know forget about it oh
+
+4484
+05:02:19,920 --> 05:02:23,600
+cancel like uh one meeting less I am
+
+4485
+05:02:23,600 --> 05:02:26,560
+fine so like good yeah no no you need to
+
+4486
+05:02:26,560 --> 05:02:28,718
+rescule it then you need to discuss what
+
+4487
+05:02:28,718 --> 05:02:30,638
+you want it to it should be regular. If
+
+4488
+05:02:30,638 --> 05:02:33,280
+you like loses regularity it might go
+
+4489
+05:02:33,280 --> 05:02:36,080
+like not well.
+
+4490
+05:02:36,080 --> 05:02:38,798
+So uh after the meetings you need to
+
+4491
+05:02:38,798 --> 05:02:42,080
+think about what you like promise to do
+
+4492
+05:02:42,080 --> 05:02:45,120
+like how you going to do it and how you
+
+4493
+05:02:45,120 --> 05:02:48,320
+like make this things happen. So like
+
+4494
+05:02:48,320 --> 05:02:51,200
+the things that can break uh your trust
+
+4495
+05:02:51,200 --> 05:02:54,878
+is just broken commit commitments and uh
+
+4496
+05:02:54,878 --> 05:02:56,718
+like yeah basically that's that's the
+
+4497
+05:02:56,718 --> 05:02:58,958
+main point. So if you promise to do
+
+4498
+05:02:58,958 --> 05:03:00,638
+something or you agreed on something
+
+4499
+05:03:00,638 --> 05:03:03,120
+like I mean as a manager so you need to
+
+4500
+05:03:03,120 --> 05:03:05,280
+uh be committed to like finish it on
+
+4501
+05:03:05,280 --> 05:03:09,360
+time. Yeah. And uh like uh the same is
+
+4502
+05:03:09,360 --> 05:03:11,280
+for associate if you agreed on something
+
+4503
+05:03:11,280 --> 05:03:15,280
+so please like behave in the same way.
+
+4504
+05:03:15,280 --> 05:03:19,280
+Yeah. So uh wrapping up our presentation
+
+4505
+05:03:19,280 --> 05:03:21,280
+uh one-on-one meetings is meetings like
+
+4506
+05:03:21,280 --> 05:03:24,958
+between uh between managers and uh guys
+
+4507
+05:03:24,958 --> 05:03:27,840
+in your team. At those meetings like you
+
+4508
+05:03:27,840 --> 05:03:30,958
+should listen like listen to understand
+
+4509
+05:03:30,958 --> 05:03:33,440
+not to ask people and try as much as
+
+4510
+05:03:33,440 --> 05:03:36,240
+possible like help like associates like
+
+4511
+05:03:36,240 --> 05:03:39,920
+with uh their needs. like it could could
+
+4512
+05:03:39,920 --> 05:03:43,120
+be like some uh current task maybe some
+
+4513
+05:03:43,120 --> 05:03:45,520
+development process setting up goals and
+
+4514
+05:03:45,520 --> 05:03:48,670
+so on. Thank you.
+
+4515
+05:03:48,670 --> 05:03:57,200
+[Applause]
+
+4516
+05:03:57,200 --> 05:04:00,600
+Any questions?
+
+4517
+05:04:02,160 --> 05:04:04,958
+What is the right question to
+
+4518
+05:04:04,958 --> 05:04:06,400
+what is the right question to get
+
+4519
+05:04:06,400 --> 05:04:09,360
+feedback? If if I ask like how am I
+
+4520
+05:04:09,360 --> 05:04:12,160
+doing? Am I doing good and I don't get
+
+4521
+05:04:12,160 --> 05:04:15,840
+anything apart like a thumbs up? Yeah.
+
+4522
+05:04:15,840 --> 05:04:18,878
+About feedback. So you can ask like uh
+
+4523
+05:04:18,878 --> 05:04:21,680
+if you're not sure you can ask uh can I
+
+4524
+05:04:21,680 --> 05:04:23,920
+get feedback from you or may I provide
+
+4525
+05:04:23,920 --> 05:04:26,000
+feedback to you like you the first
+
+4526
+05:04:26,000 --> 05:04:28,160
+question and then like if you like for
+
+4527
+05:04:28,160 --> 05:04:30,798
+example ask about feedback like may may
+
+4528
+05:04:30,798 --> 05:04:32,638
+I get feedback from you like and then
+
+4529
+05:04:32,638 --> 05:04:34,798
+like just ask what you want like for
+
+4530
+05:04:34,798 --> 05:04:37,440
+example like what I'm doing well like is
+
+4531
+05:04:37,440 --> 05:04:41,600
+my speed is okay like like is I like
+
+4532
+05:04:41,600 --> 05:04:44,000
+what I am doing is valuable like what do
+
+4533
+05:04:44,000 --> 05:04:45,680
+you think should I increase like my
+
+4534
+05:04:45,680 --> 05:04:47,920
+speed and should I be like slower like
+
+4535
+05:04:47,920 --> 05:04:50,798
+is it fine or not fine like just be
+
+4536
+05:04:50,798 --> 05:04:54,560
+honest like it's it's the main like
+
+4537
+05:04:54,560 --> 05:04:57,520
+idea. So don't be shy like managers also
+
+4538
+05:04:57,520 --> 05:04:59,440
+like would like to provide feedback to
+
+4539
+05:04:59,440 --> 05:05:01,920
+people. So if you like do this first
+
+4540
+05:05:01,920 --> 05:05:05,440
+step so it would be like uh the way then
+
+4541
+05:05:05,440 --> 05:05:09,440
+you can like speak about it more
+
+4542
+05:05:09,440 --> 05:05:11,360
+you can like set up topic like about
+
+4543
+05:05:11,360 --> 05:05:14,718
+like my current activities and my like
+
+4544
+05:05:14,718 --> 05:05:17,840
+workload and what I'm working on like
+
+4545
+05:05:17,840 --> 05:05:20,878
+let's discuss and provide feedback.
+
+4546
+05:05:20,878 --> 05:05:23,878
+Yeah.
+
+4547
+05:05:25,440 --> 05:05:27,680
+So, um what is one thing that you
+
+4548
+05:05:27,680 --> 05:05:29,440
+changed in your approach to one-on-one
+
+4549
+05:05:29,440 --> 05:05:32,320
+meetings that perhaps you've um like
+
+4550
+05:05:32,320 --> 05:05:34,560
+learned over your um learned through
+
+4551
+05:05:34,560 --> 05:05:36,320
+your experience and it had a positive
+
+4552
+05:05:36,320 --> 05:05:38,480
+impact in the end like one thing in your
+
+4553
+05:05:38,480 --> 05:05:42,160
+one-on-one approach. So, so like uh now
+
+4554
+05:05:42,160 --> 05:05:45,680
+I I don't like uh discuss u start status
+
+4555
+05:05:45,680 --> 05:05:48,320
+at one-on-one meetings is like it's one
+
+4556
+05:05:48,320 --> 05:05:50,958
+thing main thing that I change. Second,
+
+4557
+05:05:50,958 --> 05:05:53,520
+I told uh all the guys that meetings for
+
+4558
+05:05:53,520 --> 05:05:56,400
+them like not for me like they can uh
+
+4559
+05:05:56,400 --> 05:05:58,160
+set up, they can cancel it, but it
+
+4560
+05:05:58,160 --> 05:05:59,920
+should be regularly like it doesn't
+
+4561
+05:05:59,920 --> 05:06:05,440
+matter what uh the like uh uh like time
+
+4562
+05:06:05,440 --> 05:06:07,360
+for meetings it's also like on them
+
+4563
+05:06:07,360 --> 05:06:08,958
+because maybe they don't feel like
+
+4564
+05:06:08,958 --> 05:06:10,958
+having meetings on Monday in the morning
+
+4565
+05:06:10,958 --> 05:06:14,160
+somebody like yeah that's the thing and
+
+4566
+05:06:14,160 --> 05:06:17,360
+uh like also like now now I'm trying to
+
+4567
+05:06:17,360 --> 05:06:20,240
+change it goes like hard but I I'm
+
+4568
+05:06:20,240 --> 05:06:22,480
+trying like working on it. It's just uh
+
+4569
+05:06:22,480 --> 05:06:25,040
+having some notes like that shared with
+
+4570
+05:06:25,040 --> 05:06:27,920
+every like shared with this person. Uh
+
+4571
+05:06:27,920 --> 05:06:30,638
+because right now I have like only uh
+
+4572
+05:06:30,638 --> 05:06:33,600
+you know notes on my laptop that I just
+
+4573
+05:06:33,600 --> 05:06:36,958
+wrote writing down and uh like like it's
+
+4574
+05:06:36,958 --> 05:06:39,200
+hard you know like uh make some notes
+
+4575
+05:06:39,200 --> 05:06:40,958
+like always like each meetings to
+
+4576
+05:06:40,958 --> 05:06:43,600
+discuss but yeah I believe it will
+
+4577
+05:06:43,600 --> 05:06:48,200
+change also like in the positive way.
+
+4578
+05:06:52,798 --> 05:06:55,760
+Uh you also mentioned uh regarding uh
+
+4579
+05:06:55,760 --> 05:06:57,920
+meeting cadence that it's different for
+
+4580
+05:06:57,920 --> 05:07:00,400
+different team members and that
+
+4581
+05:07:00,400 --> 05:07:02,240
+sometimes they request an additional
+
+4582
+05:07:02,240 --> 05:07:04,320
+meeting. Does the request always come
+
+4583
+05:07:04,320 --> 05:07:06,718
+from their side or is it some sometimes
+
+4584
+05:07:06,718 --> 05:07:09,760
+that um like you see that the person
+
+4585
+05:07:09,760 --> 05:07:11,360
+would benefit from another meeting and
+
+4586
+05:07:11,360 --> 05:07:12,638
+you're the one that increases the
+
+4587
+05:07:12,638 --> 05:07:15,200
+cadence. Yeah. So, so in in my case it's
+
+4588
+05:07:15,200 --> 05:07:17,760
+usually they uh those request comes from
+
+4589
+05:07:17,760 --> 05:07:20,400
+their side like from my side it's very
+
+4590
+05:07:20,400 --> 05:07:24,240
+rary when I like want to talk like them
+
+4591
+05:07:24,240 --> 05:07:26,878
+uh and usually guys to want to discuss
+
+4592
+05:07:26,878 --> 05:07:30,320
+like some things that uh they not feel
+
+4593
+05:07:30,320 --> 05:07:32,240
+like well about it for example like
+
+4594
+05:07:32,240 --> 05:07:36,160
+recently we changed like our ways for um
+
+4595
+05:07:36,160 --> 05:07:38,878
+ways of like development and we we like
+
+4596
+05:07:38,878 --> 05:07:41,440
+moved from uh from KBAN let's say to
+
+4597
+05:07:41,440 --> 05:07:43,840
+scrum and like some guys worries about
+
+4598
+05:07:43,840 --> 05:07:46,560
+it and they just wanted to ask like why
+
+4599
+05:07:46,560 --> 05:07:48,638
+we doing it, what benefits it will bring
+
+4600
+05:07:48,638 --> 05:07:51,200
+and so on. So and that time I had like
+
+4601
+05:07:51,200 --> 05:07:53,600
+way more meetings that's just normal in
+
+4602
+05:07:53,600 --> 05:07:57,400
+normal life. Yeah.
+
+4603
+05:07:57,520 --> 05:08:00,560
+Okay. One question to the taking notes.
+
+4604
+05:08:00,560 --> 05:08:02,080
+Um
+
+4605
+05:08:02,080 --> 05:08:06,160
+how how do you make these notes? Um do
+
+4606
+05:08:06,160 --> 05:08:08,240
+you make it after the meeting or do you
+
+4607
+05:08:08,240 --> 05:08:10,160
+take it while you're talking to the
+
+4608
+05:08:10,160 --> 05:08:13,040
+persons or like basically it doesn't
+
+4609
+05:08:13,040 --> 05:08:14,878
+matter if you feel comfortable doing it
+
+4610
+05:08:14,878 --> 05:08:16,638
+like during meeting for example you have
+
+4611
+05:08:16,638 --> 05:08:18,718
+1 hour you can like discuss things and
+
+4612
+05:08:18,718 --> 05:08:22,080
+you can do it like during meetings notes
+
+4613
+05:08:22,080 --> 05:08:24,400
+uh but if you feel like okay with this
+
+4614
+05:08:24,400 --> 05:08:27,280
+you you can do it like after the meeting
+
+4615
+05:08:27,280 --> 05:08:30,320
+uh the the main thing is that like like
+
+4616
+05:08:30,320 --> 05:08:32,638
+as as I like it should be measurable for
+
+4617
+05:08:32,638 --> 05:08:36,638
+example you you like uh you ask manager
+
+4618
+05:08:36,638 --> 05:08:38,400
+you tell manager okay I want to be
+
+4619
+05:08:38,400 --> 05:08:41,120
+promoted like I feel like I I'm just
+
+4620
+05:08:41,120 --> 05:08:43,680
+doing completely fine and I want to be
+
+4621
+05:08:43,680 --> 05:08:46,240
+promoted okay uh like the manager tells
+
+4622
+05:08:46,240 --> 05:08:49,280
+you okay so uh let's work on your
+
+4623
+05:08:49,280 --> 05:08:51,840
+visibility and you make notes work on my
+
+4624
+05:08:51,840 --> 05:08:53,680
+visibility what it means like work on
+
+4625
+05:08:53,680 --> 05:08:55,440
+visibility what should I do like is it
+
+4626
+05:08:55,440 --> 05:08:57,680
+it's not measurable so for example you
+
+4627
+05:08:57,680 --> 05:08:59,680
+can discuss okay you have one
+
+4628
+05:08:59,680 --> 05:09:02,480
+presentation at at defcon you can have
+
+4629
+05:09:02,480 --> 05:09:05,920
+like two like send five emails per month
+
+4630
+05:09:05,920 --> 05:09:09,840
+to somebody and you basically maybe have
+
+4631
+05:09:09,840 --> 05:09:12,320
+some I I don't know like some mentee for
+
+4632
+05:09:12,320 --> 05:09:14,718
+example or just somebody who you can
+
+4633
+05:09:14,718 --> 05:09:16,480
+work with so like collaborate start
+
+4634
+05:09:16,480 --> 05:09:18,480
+collaborating with another team so it's
+
+4635
+05:09:18,480 --> 05:09:21,360
+measurable things so everything that you
+
+4636
+05:09:21,360 --> 05:09:24,878
+promised or you were promised to do it
+
+4637
+05:09:24,878 --> 05:09:27,440
+should be like written and shared
+
+4638
+05:09:27,440 --> 05:09:30,560
+between you both and then uh it should
+
+4639
+05:09:30,560 --> 05:09:33,520
+be like measurable to just see where you
+
+4640
+05:09:33,520 --> 05:09:35,760
+uh right now.
+
+4641
+05:09:35,760 --> 05:09:40,000
+Okay. Um and second question, uh what is
+
+4642
+05:09:40,000 --> 05:09:42,240
+the time you save for these meetings?
+
+4643
+05:09:42,240 --> 05:09:44,480
+How long do you normally make these
+
+4644
+05:09:44,480 --> 05:09:46,718
+meetings? You mean each meeting
+
+4645
+05:09:46,718 --> 05:09:50,638
+individually in like do you always make
+
+4646
+05:09:50,638 --> 05:09:54,798
+an hour or just 50 minutes or No, no. We
+
+4647
+05:09:54,798 --> 05:09:56,638
+usually we have like 30 minutes but it
+
+4648
+05:09:56,638 --> 05:09:58,958
+also depends on on on the p on the
+
+4649
+05:09:58,958 --> 05:10:01,760
+person and on topic we discussed. So
+
+4650
+05:10:01,760 --> 05:10:03,840
+basically we have like regular meeting
+
+4651
+05:10:03,840 --> 05:10:06,718
+is like 30 minutes uh every two like
+
+4652
+05:10:06,718 --> 05:10:09,680
+every other week and when we want like
+
+4653
+05:10:09,680 --> 05:10:12,718
+have more we can have more and if for
+
+4654
+05:10:12,718 --> 05:10:16,320
+example like guys want to cancel it I
+
+4655
+05:10:16,320 --> 05:10:18,240
+don't know some vacation period or some
+
+4656
+05:10:18,240 --> 05:10:21,840
+like uh and so on. So yeah, fine. But
+
+4657
+05:10:21,840 --> 05:10:24,400
+some sometimes we we go with like for 1
+
+4658
+05:10:24,400 --> 05:10:29,120
+hour like yeah up to 1 hour. Like I
+
+4659
+05:10:29,120 --> 05:10:30,958
+don't recommend uh doing it like more
+
+4660
+05:10:30,958 --> 05:10:32,480
+than one hour because like people get
+
+4661
+05:10:32,480 --> 05:10:35,958
+tired like
+
+4662
+05:10:37,840 --> 05:10:41,400
+any other questions.
+
+4663
+05:10:44,320 --> 05:10:47,798
+One more question.
+
+4664
+05:10:52,160 --> 05:10:54,718
+I would like to ask you how you would
+
+4665
+05:10:54,718 --> 05:10:57,520
+handle a not so good news. Let's say
+
+4666
+05:10:57,520 --> 05:11:00,000
+someone did something, there was a
+
+4667
+05:11:00,000 --> 05:11:02,560
+change, something doesn't went so good.
+
+4668
+05:11:02,560 --> 05:11:05,120
+Even if the whole team was sitting some
+
+4669
+05:11:05,120 --> 05:11:09,680
+over times to correct it, but
+
+4670
+05:11:09,680 --> 05:11:13,520
+bad news or to say so. Yeah. Yeah.
+
+4671
+05:11:13,520 --> 05:11:16,320
+Not so nice things that can happen
+
+4672
+05:11:16,320 --> 05:11:18,718
+happened. How you communicate that with
+
+4673
+05:11:18,718 --> 05:11:22,040
+a personally
+
+4674
+05:11:22,080 --> 05:11:24,798
+because some people especially don't
+
+4675
+05:11:24,798 --> 05:11:28,080
+like bad news. Yeah, nobody likes bad
+
+4676
+05:11:28,080 --> 05:11:31,680
+news. I tell you more. So I I also like
+
+4677
+05:11:31,680 --> 05:11:33,920
+it's the hardest things like for me to
+
+4678
+05:11:33,920 --> 05:11:36,320
+provide like bad news. But I I'm trying
+
+4679
+05:11:36,320 --> 05:11:39,200
+to be honest. I even if bad news happens
+
+4680
+05:11:39,200 --> 05:11:42,000
+like I'm try to like find ways where we
+
+4681
+05:11:42,000 --> 05:11:44,240
+can like solve this issue like what
+
+4682
+05:11:44,240 --> 05:11:46,480
+happened or just at least find some
+
+4683
+05:11:46,480 --> 05:11:49,920
+compromise at it. So I don't like try
+
+4684
+05:11:49,920 --> 05:11:52,560
+that okay there is bad news and we going
+
+4685
+05:11:52,560 --> 05:11:55,040
+to work in that way right now but need
+
+4686
+05:11:55,040 --> 05:11:57,520
+to discuss like need to like understand
+
+4687
+05:11:57,520 --> 05:11:59,920
+person's feelings like and so on and
+
+4688
+05:11:59,920 --> 05:12:02,320
+just be honest just tell okay it's like
+
+4689
+05:12:02,320 --> 05:12:04,000
+not only for you like good news for
+
+4690
+05:12:04,000 --> 05:12:06,958
+example for everybody so let's go
+
+4691
+05:12:06,958 --> 05:12:09,760
+together and work so yeah just be being
+
+4692
+05:12:09,760 --> 05:12:12,760
+honest
+
+4693
+05:12:14,958 --> 05:12:16,710
+thank
+
+4694
+05:12:16,710 --> 05:12:25,590
+[Applause]

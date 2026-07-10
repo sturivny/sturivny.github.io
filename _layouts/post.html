@@ -1,0 +1,46 @@
+---
+layout: default
+---
+{%- include post-image-extract.html content=page.content -%}
+<article class="post{% if post_image %} has-hero{% endif %}" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="reading-progress" aria-hidden="true">
+    <div class="reading-progress__bar" id="reading-progress-bar"></div>
+  </div>
+
+  <header class="post-header">
+    {%- if page.categories.size > 0 -%}
+      <p class="post-meta">
+        <span class="post-category">{{ page.categories | first | replace: '-', ' ' | capitalize }}</span>
+      </p>
+    {%- endif -%}
+    <h1 class="post-title" itemprop="headline">{{ page.title | escape }}</h1>
+    <div class="post-byline">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%B %-d, %Y" }}
+      </time>
+      {%- include reading-time.html content=content -%}
+    </div>
+    {%- if post_image -%}
+      <figure class="post-hero">
+        <img
+          src="{{ post_image | relative_url }}"
+          alt="{{ post_image_alt | default: page.title | escape }}"
+          width="1200"
+          height="630"
+          loading="eager"
+          decoding="async"
+          itemprop="image">
+      </figure>
+    {%- endif -%}
+  </header>
+
+  <div class="post-content prose" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <footer class="post-footer">
+    {%- include post-navigation.html -%}
+    {%- include author-closing.html -%}
+    {%- include copy-link.html -%}
+  </footer>
+</article>

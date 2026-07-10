@@ -1,0 +1,35 @@
+{%- assign post = include.post -%}
+{%- include post-image-extract.html content=post.content -%}
+{%- if post.description -%}
+  {%- assign excerpt_text = post.description -%}
+{%- else -%}
+  {%- assign excerpt_text = post.excerpt | strip_html | strip_newlines | truncate: 160 -%}
+{%- endif -%}
+<article class="featured-card">
+  {%- if post_image -%}
+    <a class="featured-card__media" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
+      <img
+        src="{{ post_image | relative_url }}"
+        alt=""
+        width="640"
+        height="360"
+        loading="lazy"
+        decoding="async">
+    </a>
+  {%- endif -%}
+  <div class="featured-card__body">
+    <time class="featured-card__date" datetime="{{ post.date | date_to_xmlschema }}">
+      {{ post.date | date: "%B %-d, %Y" }}
+    </time>
+    <h3 class="featured-card__title">
+      <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </h3>
+    {%- if excerpt_text != '' -%}
+      <p class="featured-card__excerpt">{{ excerpt_text | escape }}</p>
+    {%- endif -%}
+    <a class="featured-card__link" href="{{ post.url | relative_url }}">
+      Read article
+      <span class="featured-card__arrow" aria-hidden="true">→</span>
+    </a>
+  </div>
+</article>

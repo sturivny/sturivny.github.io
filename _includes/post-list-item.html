@@ -1,0 +1,22 @@
+{%- assign post = include.post -%}
+{%- if post.description -%}
+  {%- assign excerpt_text = post.description -%}
+{%- else -%}
+  {%- assign excerpt_text = post.excerpt | strip_html | strip_newlines | truncate: 140 -%}
+{%- endif -%}
+{%- assign category = post.categories | first -%}
+<li class="post-list__item">
+  <a class="post-list__link" href="{{ post.url | relative_url }}">
+    <span class="post-list__meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      {%- if category -%}
+        <span class="post-list__category">{{ category | replace: '-', ' ' | capitalize }}</span>
+      {%- endif -%}
+    </span>
+    <span class="post-list__title">{{ post.title | escape }}</span>
+    {%- if excerpt_text != '' -%}
+      <span class="post-list__excerpt">{{ excerpt_text | escape }}</span>
+    {%- endif -%}
+    <span class="post-list__read" aria-hidden="true">Read →</span>
+  </a>
+</li>

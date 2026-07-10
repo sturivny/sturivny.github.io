@@ -1,0 +1,10 @@
+<aside class="author-closing" aria-label="About the author">
+  <p class="author-closing__label">Written by</p>
+  <p class="author-closing__name">{{ site.author.name }}</p>
+  <p class="author-closing__bio">{{ site.description }}</p>
+  <p class="author-closing__links">
+    <a href="{{ '/about/' | relative_url }}">About</a>
+    <span aria-hidden="true">·</span>
+    <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+  </p>
+</aside>

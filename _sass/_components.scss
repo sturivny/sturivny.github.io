@@ -1,0 +1,23 @@
+.page-404 {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: var(--space-3xl) var(--space-lg);
+  text-align: center;
+
+  h1 {
+    font-family: var(--font-serif);
+    font-size: 4rem;
+    font-weight: 600;
+    margin: 0 0 var(--space-lg);
+    color: var(--color-text-secondary);
+  }
+
+  p {
+    margin: 0 0 var(--space-md);
+    color: var(--color-text-secondary);
+  }
+
+  a {
+    font-weight: 500;
+  }
+}

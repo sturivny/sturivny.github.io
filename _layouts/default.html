@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" data-theme="light">
+  {%- include head.html -%}
+  <body class="{% if page.layout %}page-{{ page.layout }}{% endif %}">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    {%- include header.html -%}
+    <main id="main-content" class="site-main" tabindex="-1">
+      {{ content }}
+    </main>
+    {%- include footer.html -%}
+    <script src="{{ '/assets/js/theme.js' | relative_url }}" defer></script>
+    {%- if page.layout == 'post' -%}
+    <script src="{{ '/assets/js/post.js' | relative_url }}" defer></script>
+    {%- endif -%}
+  </body>
+</html>

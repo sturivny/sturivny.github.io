@@ -1,0 +1,19 @@
+<nav class="post-nav" aria-label="Post navigation">
+  {%- if page.previous.url -%}
+    <a class="post-nav__link post-nav__link--prev" href="{{ page.previous.url | relative_url }}">
+      <span class="post-nav__label">Previous</span>
+      <span class="post-nav__title">{{ page.previous.title | escape }}</span>
+    </a>
+  {%- else -%}
+    <span class="post-nav__placeholder"></span>
+  {%- endif -%}
+  <a class="post-nav__all" href="{{ '/' | relative_url }}">All posts</a>
+  {%- if page.next.url -%}
+    <a class="post-nav__link post-nav__link--next" href="{{ page.next.url | relative_url }}">
+      <span class="post-nav__label">Next</span>
+      <span class="post-nav__title">{{ page.next.title | escape }}</span>
+    </a>
+  {%- else -%}
+    <span class="post-nav__placeholder"></span>
+  {%- endif -%}
+</nav>

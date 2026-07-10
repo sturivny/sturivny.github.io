@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<div class="home">
+  <section class="intro" aria-labelledby="intro-heading">
+    <p class="intro__eyebrow">{{ site.author.name }}</p>
+    <h1 id="intro-heading" class="intro__title">{{ site.tagline }}</h1>
+    <p class="intro__text">{{ site.intro }}</p>
+    <div class="intro__links">
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <span class="intro__sep" aria-hidden="true">·</span>
+      <a href="https://github.com/{{ site.social.github }}" rel="noopener noreferrer">GitHub</a>
+      <span class="intro__sep" aria-hidden="true">·</span>
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    </div>
+  </section>
+
+  {%- assign featured_count = site.featured_count | default: 3 -%}
+  {%- assign featured_posts = site.posts | slice: 0, featured_count -%}
+  {%- if featured_posts.size > 0 -%}
+  <section class="featured" aria-labelledby="featured-heading">
+    <h2 id="featured-heading" class="section-heading">Recent writing</h2>
+    <div class="featured__grid">
+      {%- for post in featured_posts -%}
+        {%- include featured-post.html post=post -%}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+  <section class="post-archive" aria-labelledby="archive-heading">
+    <h2 id="archive-heading" class="section-heading">All posts</h2>
+    <ol class="post-list">
+      {%- for post in site.posts -%}
+        {%- include post-list-item.html post=post -%}
+      {%- endfor -%}
+    </ol>
+  </section>
+</div>

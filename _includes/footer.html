@@ -1,0 +1,17 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">{{ site.author.name }}</p>
+      <p class="site-footer__tagline">{{ site.description }}</p>
+    </div>
+    <ul class="site-footer__links">
+      <li><a href="https://github.com/{{ site.social.github }}" rel="noopener noreferrer">GitHub</a></li>
+      <li><a href="{{ '/feed.xml' | relative_url }}">RSS</a></li>
+      <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+      {%- if site.social.telegram -%}
+      <li><a href="{{ site.social.telegram }}" rel="noopener noreferrer">Telegram</a></li>
+      {%- endif -%}
+    </ul>
+    <p class="site-footer__copy">&copy; {{ 'now' | date: '%Y' }} {{ site.author.name }}</p>
+  </div>
+</footer>

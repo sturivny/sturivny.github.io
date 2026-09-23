@@ -3,6 +3,8 @@ title: Being a Manager, From My Experience
 description: What two years as a manager have taught me about trust, teamwork, and helping people do good work.
 ---
 
+![Being a Manager, From My Experience](/assets/being-a-manager-from-my-experience.png)
+
 Over the past two years as a manager, I have been learning what it means to help a team do good work. Some of that learning came from my own experience, some from conversations with other managers, and some from books and research about software teams. I am still figuring things out, but my understanding of the job has changed.
 
 The idea I keep coming back to is simple: my job is to make it easier for people to do their work. That means understanding what gets in their way, helping them find a clear direction, and giving them the time and support they need.

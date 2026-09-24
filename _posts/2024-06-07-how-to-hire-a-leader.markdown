@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Hiring people"
+title: How to Hire a Leader
 categories: management
 ---
 
-![Hiring Peole](/assets/hiring-people.png)
+![How to Hire a Leader](/assets/how-to-hire-a-leader.png)
 
-#### Hiring the right person for your team is like finding the perfect piece to complete a puzzle. Every step in the process is crucial. Here’s a story that guides you through the interview process, making it an exciting journey rather than a daunting task.
+#### Hiring the right leader for your team is like finding the perfect piece to complete a puzzle. Every step in the process is crucial. Here’s a story that guides you through the interview process, making it an exciting journey rather than a daunting task.
 <br><br/>
 
 #### Preparation
